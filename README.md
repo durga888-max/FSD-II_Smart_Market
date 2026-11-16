@@ -188,6 +188,3 @@ This project is maintained using Git and GitHub.
 
 Repository: https://github.com/durga888-max/FSD-II_Smart_Market
 
-## License
-
-No license has currently been specified for this project. All rights are reserved by the respective copyright holders unless a license is added.
